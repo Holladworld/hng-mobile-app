@@ -1,0 +1,5 @@
+node_modules
+
+.expo/
+*.swp  # Swap files (for Linux/Unix editors)
+.DS_Store #For MacOS
